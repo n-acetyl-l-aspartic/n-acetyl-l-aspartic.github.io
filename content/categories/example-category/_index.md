@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: 一个标签
 description: A description of this category
 image:
 
